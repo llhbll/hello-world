@@ -1,2 +1,3 @@
 # hello-world
 first repository
+영어가 약하니 진행이 더디구나 영어공부를 꾸준히 할 것을...
